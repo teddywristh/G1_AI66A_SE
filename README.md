@@ -7,7 +7,6 @@ One-paragraph description of what your team is building goes here.
 | Name | GitHub username | Role |
 | --- | --- | --- |
 | Nguyen Thuy Quynh | Ted Nguyen | Leader |
-| Nguyen Quang Minh | MinhQuangQu | .md Engineer |
 
 ## Setup
 
