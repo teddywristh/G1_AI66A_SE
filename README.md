@@ -6,7 +6,7 @@ One-paragraph description of what your team is building goes here.
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
-| Nguyen Quang Minh | MinhQuangQu | .md Engineer |
+| Type your information here  |  |  |
 
 ## Setup
 
