@@ -1,12 +1,12 @@
 # Team Project
 
-One-paragraph description of what your team is building goes here.
+A mini marketplace where sellers can list products, buyers can add products to cart and place orders, with order management and basic sales analytics.
 
 ## Team
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
-| Type your information here  |  |  |
+| Nguyen Ho Nhat Minh | minhnm162 | Member |
 
 ## Setup
 
