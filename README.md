@@ -6,7 +6,7 @@ One-paragraph description of what your team is building goes here. (Test Conflic
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
-| 1. Nguyen Quang Minh | MinhQuangQu | .md Engineer |
+| Nguyen Quang Minh | MinhQuangQu | .md Engineer |
 
 ## Setup
 
