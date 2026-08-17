@@ -1,6 +1,6 @@
 # Team Project
 
-One-paragraph description of what your team is building goes here. (Test Conflict)
+One-paragraph description of what your team is building goes here.
 
 ## Team
 
