@@ -7,6 +7,7 @@ A mini marketplace where sellers can list products, buyers can add products to c
 | Name | GitHub username | Role |
 | --- | --- | --- |
 | Nguyen Thuy Quynh | Ted Nguyen | Leader |
+| Nguyen Quang Minh | QuangMinhQu | Member |
 | Nguyen Ho Nhat Minh | minhnm162 | Member |
 | Le Duc Minh | leducminh290506-eng| Member |
 
