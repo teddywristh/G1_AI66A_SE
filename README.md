@@ -17,3 +17,5 @@ A mini marketplace where sellers can list products, buyers can add products to c
 git clone <this-repo-url>
 cd <repo-name>
 ```
+## GitHub Board Sprint
+https://github.com/orgs/SE-FDA-NEU/projects/6/views/1?layout=board
