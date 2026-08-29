@@ -15,6 +15,13 @@ evidence that the process was real.
 <One sentence. If you cannot state the goal in one sentence, the sprint
 has no goal and you are just doing tasks.>
 
+### Hai chore issue bắt buộc
+
+| Issue | Người làm | Đã đóng? |
+|-------|-----------|----------|
+| [Chore] Refine backlog cho Sprint N | @ (PO) | |
+| [Chore] Sprint N wrap-up | @ (SM) | |
+
 ### Committed
 
 | Issue | Story | Points | Owner |
